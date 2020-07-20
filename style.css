@@ -1,0 +1,190 @@
+body{
+    background: #1E1E1E;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Varta', sans-serif;
+    color: rgba(255, 255, 255,.6);
+}
+@media (max-width:480px){
+   .nav-links{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+   } 
+   .title img{
+       width: 500px;
+       height: 140px;
+   }
+   .vera{
+       text-align: center;
+   }
+   h3{
+       text-align: center;
+      
+   }
+   .nav-item{
+       display: flex;
+       justify-content: left;
+       align-items: center;
+       flex-wrap: wrap;
+       margin-top: 10px;
+   }
+   .quick{
+       margin-left: -50px;
+   }
+   .nav-item li{
+       margin-left: 10px;
+       margin-top: 10px;
+   }
+   .carousel-item .img1{
+
+margin-left: -260px;
+margin-top: 250px;
+   }
+   .carousel-item .text{
+    text-align: center;
+    margin-left: -20px;
+    
+   }
+   .carousel-item .text3{
+     position: relative;
+     top: 20px;
+     left: -330px;
+     text-align: center;
+   }
+}
+.carousel-item .img4{
+    margin-left: -120px;
+    width: 320px;
+    height: 280px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgba(255, 255, 255,.6);
+}
+.header h2{
+    cursor: pointer;
+}
+.header i{
+    cursor: pointer;
+}
+.border__bottom{
+    width: 100%;
+    height: 2px;
+    background: #584500;
+}
+.nav-links .navs{
+    margin-left: -40px;
+}
+.nav-links ul li{
+    list-style: none;
+}
+.nav-links ul li a{
+    color: rgba(255, 255, 255,.6);
+}
+.nav-links ul li a:hover{
+    color: #584500;
+    text-decoration: none;
+}
+.carousel-item{
+    position: relative;
+    left: 450px;
+}
+.nav-link ul li{
+    list-style: none;
+}
+.nav-link ul li a{
+    text-decoration: none;
+    color: rgba(255, 255, 255,.6);
+}
+.nav-link ul li a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+#offer ul li a:hover{
+color: #fff;
+}
+#offer h3:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.text{
+    position: absolute;
+    top: 0px;
+    left: -370px;
+    float: right;
+}
+i:hover{
+color: #584500;
+}
+.text h2{
+    font-family: 'Rajdhani', sans-serif;
+font-family: 'Varta', sans-serif;
+}.text h2:hover{
+    font-family: 'Rajdhani', sans-serif;
+font-family: 'Varta', sans-serif;
+color: #584500;
+}
+
+.text p{
+    color: rgba(255, 255, 255,.6);  
+}
+.carousel-bg{
+    background: url(img/image_processing20190929-4-12d00qg.jpg) no-repeat center center/cover;
+    width: 1200px;
+    height: 400px;
+    position: relative;
+    left: 0px;
+}
+.carousel-item .img3{
+    position: relative;
+    left: -350px;
+    width: 250px;
+    height: 284px;
+}
+.text3 p{
+    color: rgba(255, 255, 255,.6); 
+}
+.text3 h4{
+    color: rgba(255, 255, 255,.6); 
+}
+.text3{
+    position: absolute;
+    top: 0;
+    color: #fff;
+    left: -70px;
+}
+.more{
+    position: absolute;
+    opacity: 1;
+    z-index:1;
+    top: 0;
+    left: 200px;
+}
+.carousel5{
+    position: relative;
+    left: 0;
+}
+.for{
+    margin-left: 100px;
+}
+#footer{
+    background: #584500;
+    width: 100%;
+    margin-top: 50px;
+   
+}
+.footer-color{
+    color: rgba(255, 255, 255,.6);
+}
+input{
+    outline: none;
+}
+.nav-item{
+    margin-left: -40px;
+}
+.logo img{
+    cursor: pointer;
+}
